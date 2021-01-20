@@ -2,21 +2,15 @@
 layout: post
 title: About Me
 description: Lorem ipsum dolor est
-image: assets/images/waterfall.jpg
+image: assets/images/memountain.jpg
 nav-menu: true
 ---
 
-<div class="row">
-	<div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/memountain.jpg %}" alt="" /></span>
-  </div>
-  <div class="6u 12u$(small)">
-		<p>Hi, I'm Christopher Oldham, a traveler, developer, science lover, explorer and global citizen. I am from New Zealand and the US, and have lived in Guatemala, Sri Lanka, Mexico, Russia and Colombia as well.</p>
-    <p>Since 2019 I have finished my undergrad degrees in physics and computer science and engineering; wrote my <a href="404.html">thesis</a>; traveled in Asia and South America; been locked down multiple times; wrote an Android app and moved to London.</p>
-    <p></p>
-    <p>I am now looking for a job in software engineering or data science at a company solving interesting and important problems</p>
-  </div>
-</div>
+Hi, I'm Christopher Oldham, a traveler, developer, science lover, explorer and global citizen. I am from New Zealand and the US, and have lived in Guatemala, Sri Lanka, Mexico, Russia and Colombia as well.</p>
+
+Since 2019 I have finished my undergrad degrees in physics and computer science and engineering; wrote my [thesis](404.html); traveled in Asia and South America; been locked down multiple times; wrote an Android app and moved to London.
+
+I am now looking for a job in software engineering or data science at a company solving interesting and important problems. My favourite programming languages are Python and C, but I'm handy in Java and Javascript (+React) as well, and I have experience with ML frameworks including TensorFlow and Torch. I speak English natively and Spanish proficiently; in my spare time I like to read non-fiction, play guitar and jog with friends.
 
 <hr class="major" />
 
