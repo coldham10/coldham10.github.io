@@ -13,12 +13,13 @@ image: assets/images/cv.png
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Résumé / Curriculum Vitae (<a href="/assets/oldhamCV.pdf" download>PDF</a>)</h1>
 		</header>
 
-<!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<header class="major">
+<h2 id="content">Education</h2>
+</header>
+<h3>B.S.E. in Computer Science and Engineering (Honors)</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
@@ -46,7 +47,6 @@ image: assets/images/cv.png
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Elements</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
