@@ -9,405 +9,219 @@ image: assets/images/cv.png
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- One -->
+<!-- Header -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h1>Résumé / Curriculum Vitae (<a href="/assets/oldhamCV.pdf" download>PDF</a>)</h1>
 		</header>
 
+<!--Education -->
 <header class="major">
 <h2 id="content">Education</h2>
 </header>
 <h3>B.S.E. in Computer Science and Engineering (Honors)</h3>
 <div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+<div class="4u 12u$(medium)">
+	<div style="width:8em;margin:auto">
+	  <span class="image"><img src="{% link assets/images/oak-leaf-white.png %}" alt="" /></span>
 	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	</div>
-	<!-- Break -->
+	<h4 style="text-align:center">University of Connecticut, Storrs, USA</h4>
+	<p style="text-align:center">2014 - 2019</p>
+</div>
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<ul class="alt">
+			<li><em>Magna cum laude</em></li>
+			<li>Concentration in Bioinformatics</li>
+			<li>Honors Scholar</li>
+			<li>Sophomore Honors Award</li>
+		</ul>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<ul class="alt">
+		  <li>Cerificate of Outstanding Achievement</li>
+			<li>Engineering Dean’s List</li>
+			<li>UPE and ΤΒΠ Honor Societies</li>
+			<li>GPA: 3.86/4.00</li>
+		</ul>
 	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+</div>
+
+<!--Thesis-->
+
+<div class="box">
+	<header class="major"><h4>Honors Thesis</h4></header>
+	<div class="table-wrapper">
+		<table>
+			<tbody>
+				<tr>
+					<td>Title</td>
+					<td>SCarborSNV: Efficient Phylogeny-Aware Single Nucleotide Variant Detection for Single Cells</td>
+				</tr>
+				<tr>
+					<td>Supervisor</td>
+					<td>Yufeng Wu, PhD. University of Connecticut</td>
+				</tr>
+				<tr>
+					<td>Description</td>
+					<td>A novel, efficient algorithm for inferring mutations from noisy DNA data sequenced from closely
+related single cells. Mathematical description of the algorithm and a C implementation, using
+dynamic programming and neighbour-joining for building heuristic trees. Reduced time complexity
+from similar state-of-the-art tools with similar accuracy.</td>
+				</tr>
+				<tr>
+					<td>Links</td>
+					<td><a>Project description</a>; <a href="https://github.com/coldham10/SCarborSNV">Code on GitHub</a></td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="2"></td>
+				</tr>
+			</tfoot>
+		</table>
+	</div>
+</div>
+
+<hr/>
+
+<!--Degree 2 -->
+<h3>Bachelor of Science in Physics</h3>
+<div class="row">
+<div class="4u 12u$(medium)">
+	<div style="width:8em;margin:auto">
+	  <span class="image"><img src="{% link assets/images/oak-leaf-white.png %}" alt="" /></span>
+	</div>
+	<h4 style="text-align:center">University of Connecticut, Storrs, USA</h4>
+	<p style="text-align:center">2014 - 2019</p>
+</div>
+	<div class="4u 12u$(medium)">
+		<ul class="alt">
+			<li><em>Magna cum laude</em></li>
+			<li><strong>Minor in Mathematics</strong></li>
+			<li>Research in Experimental Nuclear Physics</li>
+		</ul>
+	</div>
+	<div class="4u 12u$(medium)">
+		<ul class="alt">
+		  <li>ΦΒΚ and ΣΠΣ Honor Societies</li>
+			<li>Dean’s List</li>
+			<li>GPA: 3.86/4.00</li>
+		</ul>
 	</div>
 </div>
 
 <hr class="major" />
 
-<!-- Elements -->
-<div class="row 200%">
-	<div class="6u 12u$(medium)">
-
-<!-- Text stuff -->
-<h3>Text</h3>
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
-Finally, this is a <a href="#">link</a>.</p>
-<hr />
-<h2>Heading Level 2</h2>
-<h3>Heading Level 3</h3>
-<h4>Heading Level 4</h4>
-<hr />
-<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-
-<!-- Lists -->
-<h3>Lists</h3>
+<!--Experience -->
+<header class="major">
+<h2 id="content">Experience</h2>
+</header>
+<h3>Independent Developer &nbsp; | &nbsp; 2020</h3>
 <div class="row">
-	<div class="6u 12u$(small)">
-
-    	<h4>Unordered</h4>
-    	<ul>
-    		<li>Dolor etiam magna etiam.</li>
-    		<li>Sagittis lorem eleifend.</li>
-    		<li>Felis dolore viverra.</li>
-    	</ul>
-
-    	<h4>Alternate</h4>
-    	<ul class="alt">
-    		<li>Dolor etiam magna etiam.</li>
-    		<li>Sagittis lorem eleifend.</li>
-    		<li>Felis feugiat viverra.</li>
-    	</ul>
-
-    </div>
-    <div class="6u$ 12u$(small)">
-
-    	<h4>Ordered</h4>
-    	<ol>
-    		<li>Dolor etiam magna etiam.</li>
-    		<li>Etiam vel lorem sed viverra.</li>
-    		<li>Felis dolore viverra.</li>
-    		<li>Dolor etiam magna etiam.</li>
-    		<li>Etiam vel lorem sed viverra.</li>
-    		<li>Felis dolore viverra.</li>
-    	</ol>
-
-    	<h4>Icons</h4>
-    	<ul class="icons">
-    		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-    		<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-    		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-    		<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-    		<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-    		<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
-    	</ul>
-    	<ul class="icons">
-    		<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-    		<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-    		<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-    	</ul>
-
-    </div>
-
-</div>
-
-<h4>Definition</h4>
-<dl>
-	<dt>Item1</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item2</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item3</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-</dl>
-
-<h4>Actions</h4>
-<ul class="actions">
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions small">
-	<li><a href="#" class="button special small">Small</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special">Default</a></li>
-			<li><a href="#" class="button">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small">Small</a></li>
-			<li><a href="#" class="button small">Small</a></li>
-		</ul>
-	</div>
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special fit">Default</a></li>
-			<li><a href="#" class="button fit">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small fit">Small</a></li>
-			<li><a href="#" class="button small fit">Small</a></li>
-		</ul>
-	</div>
-</div>
-
-<!-- Blockquote -->
-<h3>Blockquote</h3>
-<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
-
-<!-- Table -->
-<h3>Table</h3>
-
-<h4>Default</h4>
-<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
-</div>
-
-<h4>Alternate</h4>
-<div class="table-wrapper">
-	<table class="alt">
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
-</div>
-
-</div>
-<div class="6u$ 12u$(medium)">
-
-<!-- Buttons -->
-<h3>Buttons</h3>
-<ul class="actions">
-	<li><a href="#" class="button special">Special</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button big">Big</a></li>
-	<li><a href="#" class="button">Default</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special big">Big</a></li>
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button special small">Small</a></li>
-</ul>
-<ul class="actions fit">
-	<li><a href="#" class="button special fit">Fit</a></li>
-	<li><a href="#" class="button fit">Fit</a></li>
-</ul>
-<ul class="actions fit small">
-	<li><a href="#" class="button special fit small">Fit + Small</a></li>
-	<li><a href="#" class="button fit small">Fit + Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special icon fa-search">Icon</a></li>
-	<li><a href="#" class="button icon fa-download">Icon</a></li>
-</ul>
-<ul class="actions">
-	<li><span class="button special disabled">Special</span></li>
-	<li><span class="button disabled">Default</span></li>
-</ul>
-
-<!-- Form -->
-<h3>Form</h3>
-
-<form method="post" action="#">
-	<div class="row uniform">
-		<div class="6u 12u$(xsmall)">
-			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
-		</div>
-		<div class="6u$ 12u$(xsmall)">
-			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<div class="select-wrapper">
-				<select name="demo-category" id="demo-category">
-					<option value="">- Category -</option>
-					<option value="1">Manufacturing</option>
-					<option value="1">Shipping</option>
-					<option value="1">Administration</option>
-					<option value="1">Human Resources</option>
-				</select>
-			</div>
-		</div>
-		<!-- Break -->
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
-			<label for="demo-priority-low">Low</label>
-		</div>
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-normal" name="demo-priority">
-			<label for="demo-priority-normal">Normal</label>
-		</div>
-		<div class="4u$ 12u$(small)">
-			<input type="radio" id="demo-priority-high" name="demo-priority">
-			<label for="demo-priority-high">High</label>
-		</div>
-		<!-- Break -->
-		<div class="6u 12u$(small)">
-			<input type="checkbox" id="demo-copy" name="demo-copy">
-			<label for="demo-copy">Email me a copy</label>
-		</div>
-		<div class="6u$ 12u$(small)">
-			<input type="checkbox" id="demo-human" name="demo-human" checked>
-			<label for="demo-human">I am a human</label>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<ul class="actions">
-				<li><input type="submit" value="Send Message" class="special" /></li>
-				<li><input type="reset" value="Reset" /></li>
+	<div class="8u 12u$(medium)">
+		<ul class="alt">
+			<li>Developed, tested and launched (on Android) a daily habit-tracking app using React Native and Redux;</li>
+			<li>Developed, tested a semi-automated CV translation, editing and typesetting website, turning user form
+data in either English or Spanish into a compilable LaTeX document:</li>
+			<ul>
+			<li>Front end: React, Stripe, HTML, CSS, Javascript;</li>
+			<li>Back end: AWS API Gateway, Lambda (Python), DynamoDB, SQS, SES, CloudFront, Route53;</li>
 			</ul>
+			<li><a>Link to Continuum project</a>; &nbsp; <a>Link to CVInglés project</a>.</li>
+		</ul>
+	</div>
+	<div class="4u 12u$(medium)">
+		<div style="width:8em;margin:auto">
+		  <span class="image"><img src="{% link assets/images/tripconey.svg %}" alt="" /></span>
 		</div>
-	</div>
-</form>
-
-<!-- Image -->
-<h3>Image</h3>
-
-<h4>Fit</h4>
-<span class="image fit"><img src="{% link assets/images/memountain.jpg %}" alt="" /></span>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/waterfall.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/waterfall.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/waterfall.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/waterfall.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/waterfall.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/waterfall.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/waterfall.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/waterfall.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/waterfall.jpg %}" alt="" /></span></div>
+		<h4  style="text-align:center">Continuum App and CVInglés Website</h4>
 	</div>
 </div>
 
-<h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="{% link assets/images/waterfall.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="{% link assets/images/waterfall.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+<hr class="major" />
 
-<!-- Box -->
-<h3>Box</h3>
-<div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
+<!--Job 2 -->
+
+<h3>Research Assistant &nbsp; | &nbsp; 2018 - 2019</h3>
+<div class="row">
+<div class="4u 12u$(medium)">
+	<div style="width:8em;margin:auto">
+		<span class="image"><img src="{% link assets/images/oak-leaf-white.png %}" alt="" /></span>
+	</div>
+	<h4 style="text-align:center">University of Connecticut. Physics and Computer Science and Engineering Departments</h4>
+</div>
+	<div class="8u 12u$(medium)">
+		<ul class="alt">
+			<li>Individual and collaborative research into novel bioinformatics algorithms and experimental nuclear physics;</li>
+			<li>Algorithm design and benchmarking, writing custom tools in C and Python. Some of this research culminated in my undergraduate thesis;</li>
+			<li>Testing and calibration of precision particle detector components, including ultra high speed data capture and some automation using LabVIEW</li>
+		</ul>
+	</div>
 </div>
 
-<!-- Preformatted Code -->
-<h3>Preformatted</h3>
-<pre><code>i = 0;
+<hr class="major" />
 
-while (!deck.isInOrder()) {
-print 'Iteration ' + i;
-deck.shuffle();
-i++;
-}
+<!--Job 3 -->
 
-print 'It took ' + i + ' iterations to sort the deck.';
-</code></pre>
-
+<h3>Digital Technology Leadership Program Intern &nbsp; | &nbsp; 2017</h3>
+<div class="row">
+	<div class="8u 12u$(medium)">
+	<p>At Pratt &amp; Whitney, I lead a cross-functional team to plan, prepare and execute testing for a large,
+business-wide software project. I worked closely with supply chain and logistics experts, software developers,
+aerospace engineers, multiple IT teams and management to develop and execute a test strategy that covered
+integration testing and user acceptance testing.</p>
+		<ul class="alt">
+			<li>Worked with the business to define over 250 use-case scenarios for the new software, and coordinated
+multiple business and IT teams to develop test scripts;</li>
+			<li>Organised test preparation and test execution, including identifying testers and ensuring system readiness.
+This included planning and running frequent meetings, some with 30+ attendants;</li>
+		</ul>
+	</div>
+	<div class="4u 12u$(medium)">
+		<div style="width:8em;margin:auto">
+			<span class="image fit"><img src="{% link assets/images/United_Technologies.svg %}" alt="" /></span>
+		</div>
+		<h4 style="text-align:center">Pratt &amp; Whitney | United Technologies</h4>
+	</div>
 </div>
+
+<hr class="major" />
+
+<!--Job 4-->
+
+<h3>User Experience & Technology Genius &nbsp; | &nbsp; 2015 - 2016</h3>
+<div class="row">
+<div class="4u 12u$(medium)">
+	<div style="width:8em;margin:auto">
+		<span class="image"><img src="{% link assets/images/Darien_logo.png %}" alt="" /></span>
+	</div>
+</div>
+	<div class="8u 12u$(medium)">
+	<h4>Darien Library, USA</h4>
+		<ul class="alt">
+			<li>Working with the systems administrator in the User Experience office, I not only aided in the library’s
+software research and development but also played a public-facing IT role.</li>
+		</ul>
+	</div>
 </div>
 
-</div>
-</section>
+<hr class="major" />
 
+<!--Job 5 photo too big about me; Hi my name is chris is dumb-->
+
+<h3>Systems Integration Engineer &nbsp; | &nbsp; 2015</h3>
+<div class="row">
+	<div class="8u 12u$(medium)">
+	<h4>NXEGEN, LLC, Middletown, CT, USA</h4>
+		<ul class="alt">
+			<li>Assisted with back end maintenance and development using Visual Studio, C#, MS SQL; Assembled and
+compiled efficiency reports from test data, turning SQL commands into actionable information.</li>
+		</ul>
+	</div>
+	<div class="4u 12u$(medium)">
+	<div style="width:8em;margin:auto">
+		<span class="image"><img src="{% link assets/images/nxegen2.png %}" alt="" /></span>
+	</div>
+	</div>
 </div>

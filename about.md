@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-description: Lorem ipsum dolor est
+description: Get to know me personally
 image: assets/images/memountain.jpg
 nav-menu: true
 ---
@@ -26,6 +26,8 @@ The 2020 pandemic cut my travels in South America short and I went home to spend
 - Global priorities research and effective altruism
 
 <hr class="major"/>
+
+### My Travel Map
 
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
