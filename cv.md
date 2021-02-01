@@ -208,8 +208,6 @@ software research and development but also played a public-facing IT role.</li>
 
 <hr class="major" />
 
-<!--Job 5 photo too big about me; Hi my name is chris is dumb-->
-
 <h3>Systems Integration Engineer &nbsp; | &nbsp; 2015</h3>
 <div class="row">
 	<div class="8u 12u$(medium)">
