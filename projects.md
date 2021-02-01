@@ -30,9 +30,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Continuum Andoid App</h3>
 				</header>
-				<p>After becoming interested in the interplay between goals and habits, I found myself struggling to remember how well I had been keeping up with new habits and how long I had abstained from bad habits. I had just taught myself Javascript and React, so I decided to write a React Native app to help me keep track. Continuum is now available as a beta on the Android Play Store.</p>
+				<p>After becoming interested in the interplay between goals and habits, I found myself struggling to remember how well I had been keeping up with new habits and how long I had abstained from bad habits. I had just taught myself JavaScript and React, so I decided to write a React Native app to help me keep track. Continuum is now available as a beta on the Android Play Store.</p>
 				<ul class="actions">
-					<li><a href="{% post_url 2016-8-20-etiam %}" class="button">Learn more</a></li>
+					<li><a href="{% post_url 2021-1-1-continuum %}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>SCarborSNV Genetic Variant Caller</h3>
 				</header>
-				<p>I joined a bioinformatics research lab at university and began studying genomics and the application to cancer. Specifically I studied algorithms for the emerging field of single cell whole genome DNA sequencing (scDNA-seq). While researching other variant calling algorithms, I realised that the ancestral relationship between single cells in a sample could potentially be leveraged to improve accuracy and efficiency.</p>
+				<p>A novel bioinformatics tool that became my undergraduate honors thesis. A probabilistic phylogeny-aware algorithm, implemented in C that finds single-letter mutations in DNA from sequence data. Up for a challenge? <a href="/assets/SCarborSNV.pdf" download>Read the thesis</a>.</p>
 				<ul class="actions">
 					<li><a href="{% post_url 2019-10-1-scarborsnv %}" class="button">Learn more</a></li>
 				</ul>
@@ -62,9 +62,9 @@ nav-menu: true
 				<header class="major">
 					<h3>CVInglés Website</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>A CV design website aimed at Latin Americans seeking work in English speaking countries. Services include copy editing English language submissions, professional translation of Spanish language submissions, in-depth consultation, and typesetting in LaTeX. The front end is written in React and the back end uses AWS APIs and microservices (especially Lambda) to automate payment confirmation, image processing, initial machine translation and the generation of .tex files that can be compiled into PDF documents.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="{% post_url 2020-6-1-cvingles %}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
