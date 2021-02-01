@@ -46,9 +46,9 @@ nav-menu: true
 				<header class="major">
 					<h3>SCarborSNV Genetic Variant Caller</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>I joined a bioinformatics research lab at university and began studying genomics and the application to cancer. Specifically I studied algorithms for the emerging field of single cell whole genome DNA sequencing (scDNA-seq). While researching other variant calling algorithms, I realised that the ancestral relationship between single cells in a sample could potentially be leveraged to improve accuracy and efficiency.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="{% post_url 2019-10-1-scarborsnv %}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
