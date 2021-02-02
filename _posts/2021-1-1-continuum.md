@@ -6,7 +6,7 @@ image:
 permalink: /projects/Continuum
 ---
 
-I heard a talk by author James Clear on the critical importance of habits in almost every aspect of life, and I became quite interested in the [interplay between goals and habits](https://psycnet.apa.org/doi/10.1037/0033-295X.114.4.843){:target="\_blank"}. However despite my best attempts to form new habits and break old ones, I found myself struggling to be sure of how well I was doing. Had I really been keeping up with new habits? How long had I abstained from those bad habits? Did I do push-ups this morning, or was that yesterday? Pen and paper helped somewhat but came with its own issues: not only keeping track of the tallies, but ironically logging habits is not the easiest habit to maintain.
+I heard a talk by author James Clear on the critical importance of habits in almost every aspect of life, and I became quite interested in the [interplay between goals and habits](https://psycnet.apa.org/doi/10.1037/0033-295X.114.4.843){:target="\_blank"}. However, despite my best attempts to form new habits and break old ones, I found myself struggling to be sure of how well I was doing. Had I really been keeping up with new habits? How long had I abstained from those bad habits? Did I do push-ups this morning, or was that yesterday? Pen and paper helped somewhat but came with its own issues: not only keeping track of the tallies, but ironically logging habits is not the easiest habit to maintain.
 
 What I needed was an app with a simple, intuitive UI that would remind me to log my habits and let me see how I was doing at a glance. Instead of finding the perfect app, I had just taught myself JavaScript and React and so I decided to write one myself using React Native.
 

@@ -6,11 +6,11 @@ image: assets/images/memountain.jpg
 nav-menu: true
 ---
 
-Hi, I'm Christopher Oldham, a traveler, developer, science lover, explorer and global citizen. I am from New Zealand and the US, and have lived in Guatemala, Sri Lanka, Mexico, Russia and Colombia as well.
+Hi, I'm Christopher Oldham, a traveller, developer, science lover, explorer and global citizen. I am from New Zealand and the US, and have lived in Guatemala, Sri Lanka, Mexico, Russia and Colombia as well.
 
-Since 2019 I have finished my undergrad degrees in physics and computer science and engineering; wrote my [thesis](404.html); traveled in Asia and South America; been locked down multiple times; wrote an Android app and moved to London.
+Since 2019 I have finished my undergrad degrees in physics and computer science and engineering; wrote my [thesis](404.html); travelled in Asia and South America; been locked down multiple times; wrote an Android app and moved to London.
 
-I am now looking for a job in software engineering or data science at a company solving interesting and important problems. My favourite programming languages are Python and C, but I'm handy in Java and Javascript (+React) as well, and I have experience with ML frameworks including TensorFlow and Torch. I speak English natively and Spanish proficiently; in my spare time I like to read non-fiction, play guitar and jog with friends.
+I am now looking for a job in software engineering or data science at a company solving interesting and important problems. My favourite programming languages are Python and C, but I'm handy in Java and JavaScript (+React) as well, and I have experience with ML frameworks including TensorFlow and Torch. I speak English natively and Spanish proficiently; in my spare time I like to read non-fiction, play guitar and jog with friends.
 
 <hr class="major" />
 
@@ -112,6 +112,18 @@ areas :
 	{
 		"id": "CA",
 		"showAsSelected": true
+	},
+	{
+		"id": "SV",
+		"showAsSelected": true
+	},
+	{
+		"id": "ID",
+		"showAsSelected": true
+	},
+	{
+			"id": "SG",
+			"showAsSelected": true
 	},
 	{
 		"id": "DO",
