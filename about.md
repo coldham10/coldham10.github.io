@@ -20,7 +20,7 @@ The 2020 pandemic cut my travels in South America short and I went home to spend
 
 - Responsible AI development
 - Mitigating the worst effects of climate change
-- New techniques in machine learning
+- New techniques in machine learning (incl. GANs and GCNs)
 - Bioinformatics and computational physics
 - Biosecurity and catastrophic biological risks
 - Global priorities research and effective altruism
