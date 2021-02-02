@@ -8,7 +8,7 @@ nav-menu: true
 
 Hi, I'm Christopher Oldham, a traveller, developer, science lover, explorer and global citizen. I am from New Zealand and the US, and have lived in Guatemala, Sri Lanka, Mexico, Russia and Colombia as well.
 
-Since 2019 I have finished my undergrad degrees in physics and computer science and engineering; wrote my [thesis](404.html); travelled in Asia and South America; been locked down multiple times; wrote an Android app and moved to London.
+Since 2019 I have finished my undergrad degrees in physics and computer science and engineering; wrote my [thesis]({% post_url 2019-10-1-scarborsnv %}); travelled in Asia and South America; been locked down multiple times; wrote an Android app and moved to London.
 
 I am now looking for a job in software engineering or data science at a company solving interesting and important problems. My favourite programming languages are Python and C, but I'm handy in Java and JavaScript (+React) as well, and I have experience with ML frameworks including TensorFlow and Torch. I speak English natively and Spanish proficiently; in my spare time I like to read non-fiction, play guitar and jog with friends.
 
@@ -16,7 +16,7 @@ I am now looking for a job in software engineering or data science at a company 
 
 ## Twenty, Twenty-one...
 
-The 2020 pandemic cut my travels in South America short and I went home to spend lockdown with my family. After some smaller projects and online study, I decided to build a [website](404.html) and an [app](404.html). At the start of this somewhat uncertain year I am now looking for the perfect job in software engineering or data science - one in which I am playing my small part in improving the fate of our world. I am keen to work for any company that is trying to solve world or regional problems, but a few areas I currently find really interesting are:
+The 2020 pandemic cut my travels in South America short and I went home to spend lockdown with my family. After some smaller projects and online study, I decided to build a [website]({% post_url 2020-6-1-cvingles %}) and an [app]({% post_url 2021-1-1-continuum %}). At the start of this somewhat uncertain year I am now looking for the perfect job in software engineering or data science - one in which I am playing my small part in improving the fate of our world. I am keen to work for any company that is trying to solve world or regional problems, but a few areas I currently find really interesting are:
 
 - Responsible AI development
 - Mitigating the worst effects of climate change
