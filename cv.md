@@ -167,7 +167,7 @@ data in either English or Spanish into a compilable LaTeX document:</li>
 <h3>Digital Technology Leadership Program Intern &nbsp; | &nbsp; 2017</h3>
 <div class="row">
 	<div class="8u 12u$(medium)">
-	<p>At Pratt &amp; Whitney, I lead a cross-functional team to plan, prepare and execute testing for a large,
+	<p>At Pratt &amp; Whitney, I led a cross-functional team to plan, prepare and execute testing for a large,
 business-wide software project. I worked closely with supply chain and logistics experts, software developers,
 aerospace engineers, multiple IT teams and management to develop and execute a test strategy that covered
 integration testing and user acceptance testing.</p>
@@ -190,7 +190,7 @@ This included planning and running frequent meetings, some with 30+ attendants;<
 
 <!--Job 4-->
 
-<h3>User Experience & Technology Genius &nbsp; | &nbsp; 2015 - 2016</h3>
+<h3>User Experience & Technology Genius &nbsp; | &nbsp; Summers 2015 - 2016</h3>
 <div class="row">
 <div class="4u 12u$(medium)">
 	<div style="width:8em;margin:auto">

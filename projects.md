@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Continuum Andoid App</h3>
+					<h3>Continuum Android App</h3>
 				</header>
 				<p>After becoming interested in the interplay between goals and habits, I found myself struggling to remember how well I had been keeping up with new habits and how long I had abstained from bad habits. I had just taught myself JavaScript and React, so I decided to write a React Native app to help me keep track. Continuum is now available as a beta on the Android Play Store.</p>
 				<ul class="actions">
