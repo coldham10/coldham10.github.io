@@ -71,7 +71,7 @@ from similar state-of-the-art tools with similar accuracy.</td>
 				</tr>
 				<tr>
 					<td>Links</td>
-					<td><a>Project description</a>; <a href="https://github.com/coldham10/SCarborSNV">Code on GitHub</a></td>
+					<td><a href="{% post_url 2019-10-1-scarborsnv %}">Project description</a>; <a href="https://github.com/coldham10/SCarborSNV" target="_blank">Code on GitHub</a></td>
 				</tr>
 			</tbody>
 			<tfoot>
@@ -128,7 +128,7 @@ data in either English or Spanish into a compilable LaTeX document:</li>
 			<li>Front end: React, Stripe, HTML, CSS, Javascript;</li>
 			<li>Back end: AWS API Gateway, Lambda (Python), DynamoDB, SQS, SES, CloudFront, Route53;</li>
 			</ul>
-			<li><a>Link to Continuum project</a>; &nbsp; <a>Link to CVInglés project</a>.</li>
+			<li><a href="{% post_url 2021-1-1-continuum %}">Link to Continuum project</a>; &nbsp; <a href="{% post_url 2020-6-1-cvingles %}">Link to CVInglés project</a>.</li>
 		</ul>
 	</div>
 	<div class="4u 12u$(medium)">
