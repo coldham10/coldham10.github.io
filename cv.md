@@ -13,7 +13,7 @@ image: assets/images/cv.png
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Résumé / Curriculum Vitae (<a href="/assets/oldhamCV.pdf" download>PDF</a>)</h1>
+			<h1>Résumé / Curriculum Vitae (<a href="/assets/oldham_christopher.pdf" download>PDF</a>)</h1>
 		</header>
 
 <!--Education -->
